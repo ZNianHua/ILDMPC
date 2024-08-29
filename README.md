@@ -8,8 +8,8 @@ Simulations are carried out to demonstrate the effectiveness, where the proposed
 ## result
 There are two videos of a 4-vehicle AVP, where the one is controlled by a compared feedback controller, and the other is controlled by the proposed ILDMPC controller. 
 The first one is the result with the compared feedback controller, where a dangerous collision occurs. 
-
 ![platoon_compared](https://github.com/ZNianHua/ILDMPC/blob/main/ILDMPC_video_iteration0.mat.gif)
+
 The second one is the result with the ILDMPC controller, where performances are improved. 
 ![platoon_ILCMPC](https://github.com/ZNianHua/ILDMPC/blob/main/ILDMPC_video_iteration14.mat%2000_00_00-00_00_30.gif)
 ## contact
