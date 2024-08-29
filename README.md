@@ -11,7 +11,7 @@ The first one is the result with the compared feedback controller, where a dange
 
 ![platoon_compared](https://github.com/ZNianHua/ILDMPC/blob/main/ILDMPC_video_iteration0.mat.gif)
 The second one is the result with the ILDMPC controller, where performances are improved. 
-![platoon_ILCMPC](https://github.com/ZNianHua/BOMPC/assets/96680190/96811519-75ff-4364-9ca6-20c6d4f61035)
+![platoon_ILCMPC](https://github.com/ZNianHua/ILDMPC/blob/main/ILDMPC_video_iteration14.mat%2000_00_00-00_00_30.gif)
 ## contact
 e-mail: znh943161859@163.com
 
