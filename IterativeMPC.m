@@ -64,9 +64,9 @@ MPC_param.ContrLengt=Nu;%控制向量维度
 MPC_param.OtherLengt=No;%其他输入维度
 MPC_param.SamplTime=Tstep;%时间步长
 
-MPC_param.WeiPerfo=diag([1000,1000,10000,100,1,5000,50,1]);%跟踪效果权重矩阵
-MPC_param.WeiIncre=diag([1,10000]);%控制增量权重矩阵
-MPC_param.WeiSimilJudg=diag([1,1,100,1,1,100,1,1]);%计算终端代价时，计算当前状态与历史状态相对差异所用权重
+MPC_param.WeiPerfo=diag([1,1,100,1,1,50,1,1]);%跟踪效果权重矩阵
+MPC_param.WeiIncre=diag([1,100]);%控制增量权重矩阵
+MPC_param.WeiSimilJudg=diag([1,1,1,1,1,1,1,1]);%计算终端代价时，计算当前状态与历史状态相对差异所用权重
 MPC_param.WeiTrans =diag(1);%运输前进权重
 
 MPC_param.InterVehDis=d_s;%编队固定车间距
