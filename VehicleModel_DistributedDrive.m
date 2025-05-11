@@ -88,7 +88,7 @@ if abs(Vxp)<vx_thres
 else
     alpha_fl=-(delta_l-atan2((Vyp+a*theta_dotp),(Vxp-tfl*theta_dotp)) );
     alpha_fr=-(delta_r-atan2((Vyp+a*theta_dotp),(Vxp+tfr*theta_dotp)));
-    alpha_rl=(atan2((Vyp-b*theta_dotp),(Vxp+trl*theta_dotp)));
+    alpha_rl=(atan2((Vyp-b*theta_dotp),(Vxp-trl*theta_dotp)));
     alpha_rr=(atan2((Vyp-b*theta_dotp),(Vxp+trr*theta_dotp)));
 end
 
