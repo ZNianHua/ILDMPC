@@ -1,5 +1,19 @@
 # ILDMPC
 It's the iterative learning distributed model predictive control (ILDMPC) for 2-dimensional autonomous vehicle platoons (AVPs). 
+## citation
+If they are helpful in your research, please cite the following information:
+```bibtex
+@ARTICLE{11130514,
+  author={Zhang, Nianhua and Chen, Jicheng and Viadero-Monasterio, Fernando and Zhang, Hui},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={Iterative Learning Distributed Model Predictive Control for Autonomous Vehicle Platoons With Applications to Repetitive Tasks}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-15},
+  doi={10.1109/TITS.2025.3597322}}
+
+```
 ## introduction
 AVPs are important components of intelligent transportation systems and are quite powerful for repetitive tasks, where the guiding vehicle and following vehicles require different control strategies with different objectives and the there are various 
 conditions of different tasks and different combinations of vehicles. 
